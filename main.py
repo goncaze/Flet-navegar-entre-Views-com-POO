@@ -28,7 +28,7 @@ class App:
             self.page.views.append(ViewTres(self.page))
         elif troute.match("/view_dois/:id"):
             self.page.views.append(ViewDois(self.page, troute.id))
-        elif troute.match("/view_tres/:id"):
+        elif troute.match("/view_tres/:id_"):
             self.page.views.append(ViewTres(self.page, troute.id))
         self.page.update()
 

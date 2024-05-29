@@ -10,7 +10,7 @@ Para além do uso de telas em diferentes módulos e classes, empreguei o uso de 
 
 Ao executar o projeto: haverá quatro botões. Dois para redirecionamento entre as telas e dois para demonstrar a passagem de um id.
 
-Advertência: não sei se esta é a melhor maneira de usar POO com flet, mas depois de tanto pesquisar e testar foi o que consegui fazer de melhor até agora.
+Advertência: não sei se esta é a melhor maneira de usar POO com FLET, mas depois de tanto pesquisar e testar foi o que consegui fazer de melhor até agora.
 
 
 To run the app:
