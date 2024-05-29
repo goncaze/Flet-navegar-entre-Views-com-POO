@@ -1,5 +1,7 @@
 # A flet_views_poo Flet app
 
+Gostaria de criar Views para cadastro, consultas, etc.  usando POO e em módulos python diferentes. 
+
 Depois de muitos testes procurei escrever este pequeno exemplo de como fiz para lidar com o paradigma da programação orientada a objeto (POO) no Flet.
 
 Criei uma classe App que é instanciada no arquivo main.py pela função main. No passo seguinte, em três módulos criei classes que herdam de ft.View para organizar os componentes visuais (ViewUm, ViewDois e ViewTrês).
